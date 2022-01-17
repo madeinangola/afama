@@ -1,0 +1,25 @@
+{
+  "name": "afama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeinangola/afama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeinangola/afama/issues"
+  },
+  "homepage": "https://github.com/madeinangola/afama#readme",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
